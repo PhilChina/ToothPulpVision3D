@@ -1,0 +1,110 @@
+{
+  "0": {
+    "train": [
+      "HU XIN YU-44.nrrd",
+      "DENG CHEN-24.nrrd",
+      "LU REN DI-44.nrrd",
+      "DING ZAO-14.nrrd",
+      "WANG HE-14.nrrd",
+      "LU REN DI-14.nrrd",
+      "WU YI CHEN-25.nrrd",
+      "WANG HE-45.nrrd",
+      "LONG YU CHEN-14.nrrd",
+      "SONG YAO-45.nrrd",
+      "LI BIN-35.nrrd",
+      "HUANG ZHI YAN-35.nrrd",
+      "JIN WEN YUE-14.nrrd",
+      "LI BIN-24.nrrd",
+      "TAN YUN YI-24.nrrd",
+      "HUANG ZHI YAN-25.nrrd",
+      "ZHENG WEI WEI-24.nrrd",
+      "LIU TING-24.nrrd",
+      "LIU CHANG-45.nrrd",
+      "HUANG YANG JIN-34.nrrd",
+      "LIU TING-34.nrrd",
+      "LONG YU CHEN-44.nrrd",
+      "ZHENG XU SHENG-24.nrrd",
+      "ZHOU YI CHENG-24.nrrd",
+      "ZHOU YI CHENG-35.nrrd"
+    ],
+    "test": [
+      "CHEN BAI XUE-34.nrrd",
+      "CHEN YAN LIAN-24.nrrd",
+      "DENG BIN-44.nrrd",
+      "DENG CHEN-34.nrrd",
+      "HU XIN YU-14.nrrd"
+    ]
+  },
+  "1": {
+    "train": [
+      "HU XIN YU-44.nrrd",
+      "LU REN DI-44.nrrd",
+      "ZHENG XU SHENG-24.nrrd",
+      "WANG HE-14.nrrd",
+      "HUANG YANG JIN-34.nrrd",
+      "WU YI CHEN-25.nrrd",
+      "SONG YAO-45.nrrd",
+      "LI BIN-35.nrrd",
+      "ZHOU YI CHENG-35.nrrd",
+      "CHEN BAI XUE-34.nrrd",
+      "LIU TING-34.nrrd",
+      "DENG CHEN-34.nrrd",
+      "ZHOU YI CHENG-24.nrrd",
+      "HUANG ZHI YAN-35.nrrd",
+      "HU XIN YU-14.nrrd",
+      "LONG YU CHEN-14.nrrd",
+      "ZHENG WEI WEI-24.nrrd",
+      "DENG BIN-44.nrrd",
+      "LI BIN-24.nrrd",
+      "LONG YU CHEN-44.nrrd"
+    ],
+    "test": [
+      "CHEN YAN LIAN-24.nrrd",
+      "DENG CHEN-24.nrrd",
+      "DING ZAO-14.nrrd",
+      "HUANG ZHI YAN-25.nrrd",
+      "JIN WEN YUE-14.nrrd",
+      "LIU CHANG-45.nrrd",
+      "LIU TING-24.nrrd",
+      "LU REN DI-14.nrrd",
+      "TAN YUN YI-24.nrrd",
+      "WANG HE-45.nrrd"
+    ]
+  },
+  "2": {
+    "train": [
+      "DENG CHEN-24.nrrd",
+      "DING ZAO-14.nrrd",
+      "ZHENG XU SHENG-24.nrrd",
+      "HUANG YANG JIN-34.nrrd",
+      "LU REN DI-14.nrrd",
+      "WANG HE-45.nrrd",
+      "TAN YUN YI-24.nrrd",
+      "ZHOU YI CHENG-35.nrrd",
+      "CHEN YAN LIAN-24.nrrd",
+      "CHEN BAI XUE-34.nrrd",
+      "LIU TING-34.nrrd",
+      "DENG CHEN-34.nrrd",
+      "ZHOU YI CHENG-24.nrrd",
+      "JIN WEN YUE-14.nrrd",
+      "HU XIN YU-14.nrrd",
+      "HUANG ZHI YAN-25.nrrd",
+      "LONG YU CHEN-44.nrrd",
+      "DENG BIN-44.nrrd",
+      "LIU TING-24.nrrd",
+      "LIU CHANG-45.nrrd"
+    ],
+    "test": [
+      "HU XIN YU-44.nrrd",
+      "HUANG ZHI YAN-35.nrrd",
+      "LI BIN-24.nrrd",
+      "LI BIN-35.nrrd",
+      "LONG YU CHEN-14.nrrd",
+      "LU REN DI-44.nrrd",
+      "SONG YAO-45.nrrd",
+      "WANG HE-14.nrrd",
+      "WU YI CHEN-25.nrrd",
+      "ZHENG WEI WEI-24.nrrd"
+    ]
+  }
+}
